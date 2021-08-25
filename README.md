@@ -18,7 +18,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)\
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-84e6ff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-84e6ff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
